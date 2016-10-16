@@ -1,0 +1,4 @@
+name: MailSys
+main: io.github.hyperbeem.MailSys.Core
+version: 0.0.0.1
+commands:
